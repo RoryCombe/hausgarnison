@@ -1,0 +1,17 @@
+
+/* ------------------------ image background ------------------------ */
+.image-bg {
+	overflow: hidden;
+	background-size: cover;
+	background-image: url("../img/bb/entrance1_bg.jpg");
+	background-position: center 16%;
+	position: relative;
+}
+
+.image-bg-main {
+	overflow: hidden;
+	background-size: cover;
+	background-image: url("../img/bb/swakop.jpg");
+	background-position: center 16%;
+	position: relative;
+}
