@@ -1,4 +1,6 @@
-
+.color-bg{
+	background-color:green;
+}
 /* ------------------------ image background ------------------------ */
 .image-bg {
 	overflow: hidden;
