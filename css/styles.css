@@ -1,4 +1,6 @@
-
+.color-bg{
+	background-color:#A6C9C4;
+}
 /* ------------------------ image background ------------------------ */
 .image-bg {
 	overflow: hidden;
@@ -11,7 +13,7 @@
 .image-bg-main {
 	overflow: hidden;
 	background-size: cover;
-	background-image: url("../img/bb/swakop_cover.jpg");
+	background-image: url("../img/bb/newcover.jpg");
 	background-position: center 16%;
 	position: relative;
 }
@@ -28,8 +30,8 @@
 	padding: 12px 15px;
 }
 .navbar-inverse {
-	background-color: #2AAFC3;
-	border-color: #2AAFC3;
+	background-color: #A6C9C4;
+	border-color: #A6C9C4;
 }
 
 .mymenu {
